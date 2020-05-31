@@ -1,2 +1,2 @@
 # video-rental
-a nodejs API
+A Backend App that uses ExpressJS, NodeJS and MongoDB for video rentals
